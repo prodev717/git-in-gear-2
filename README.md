@@ -1,2 +1,4 @@
 # git-in-gear-2
-Git in gear 2.0 event - contribution demo
+## contributors
+1. [Ganesh M](https://github.com/prodev717)
+

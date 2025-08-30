@@ -3,4 +3,4 @@
 1. [Ganesh M](https://github.com/prodev717)
 2. [Vishesh Agarwal](https://github.com/not-wish)
 
-## Conducted by : CSI Chapter , VIT-AP
+### Conducted by : CSI Chapter , VIT-AP

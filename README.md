@@ -7,4 +7,5 @@
 3. [Vanshika Beria](http://github.com/galaxy-milky)
 4. [Pavan Kumar K](https;//github.com/Think-big2917)
 5. [Eshwar Chandra](https://github.com/EshwarYadav29)
-6. [Mokshitha Kalla](https://github.com/Moksha-12)
+6. [Mokshitha kalla](https://github.com/Moksha-12)
+
